@@ -1,0 +1,3 @@
+[submodule "kaggle-2014-criteo"]
+	path = kaggle-2014-criteo
+	url = https://github.com/caikehe/kaggle-2014-criteo.git
